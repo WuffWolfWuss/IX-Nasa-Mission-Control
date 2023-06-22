@@ -2,7 +2,9 @@
 
 ![Alt text](https://lucid.app/publicSegments/view/9457ab0c-a259-4fbc-93de-26ef7d8c1146/image.png)
 
- This web application allows users to schedule space launch missions to habitable planets using data sourced from the NASA archive.
+Application use for this project: React, Node, Express, MongoDB, Mongoose
+
+This web application allows users to schedule space launch missions to habitable planets using data sourced from the NASA archive.
 
 The project encompasses three key tabs, each serving a distinct purpose to enhance the user experience. The "Schedule Launch" tab empowers users to plan and schedule new space launch missions, selecting their desired habitable planet as the destination. Leveraging the extensive information available from the NASA archive, users can explore various habitable planets and make informed decisions when planning their missions.
 
